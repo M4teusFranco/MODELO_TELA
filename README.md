@@ -1,4 +1,4 @@
-# MODELO_TELA
+# MODELO DE TELA
 
 O projeto se baseia numa simulação de Interface Gráfica de Usuário, contendo Containers e Components. Além disso, também usa das classes Frame, Panel, Label, TextField e Button
 
