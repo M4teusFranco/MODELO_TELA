@@ -1,22 +1,53 @@
-# MODELO DE TELA
+# Interface Gráfica com AWT e Swing em Java
 
-O projeto se baseia numa simulação de Interface Gráfica de Usuário, contendo Containers e Components. Além disso, também usa das classes Frame, Panel, Label, TextField e Button
+Este projeto demonstra o uso combinado das bibliotecas AWT (Abstract Window Toolkit) e Swing para a criação de uma interface gráfica simples em Java.
 
-![image](https://github.com/user-attachments/assets/46d7b37a-2d45-4cc9-8fc2-bef3c16e960a)
+#### Funcionalidades principais:
+
+- Criação de uma janela (JFrame) com componentes gráficos básicos.
+- Utilização de elementos AWT (como Button, Label, TextField) embutidos em um ambiente Swing.
+- Eventos de clique que interagem com o usuário.
+
+O projeto serve como introdução prática à construção de GUIs (Interfaces Gráficas de Usuário) com as bibliotecas nativas do Java.
 
 ### 📋 Pré-requisitos
 
-- Eclipse IDE
-  
-### 🔧 Instalação
+- Java JDK 8 ou superior
+- IDE Java com suporte à execução gráfica (Eclipse, IntelliJ IDEA, NetBeans, etc.)  
+### 🚀 Instalação e execução
 
-* Explicação de como deve ser utilizado o projeto
+1. Clone o repositório:
 
-## 🛠️ Construído com
+```
+git clone https://github.com/seu-usuario/MODELO_TELA
+```
 
-O código deve ser inicializado por uma IDE que aceite Java, como o Eclipse.
+2. Importe o projeto no Eclipse:
+- File → Import → Existing Projects into Workspace
+- Selecione a pasta do projeto clonado
 
-* IDE Eclipse
+3. Execute a classe Main localizada no pacote Main para ver a demonstração do sistema.
+   
+### 🛠️ Funcionalidades Implementadas
+
+Interface gráfica simples com:
+
+- Campo de texto (TextField)
+- Rótulo (Label)
+- Botões (Button)
+
+Eventos acionados por cliques nos botões
+
+Uso de layout básico (FlowLayout)
+
+Integração entre AWT e Swing
+
+### 📝 Exemplo de Interface
+
+Ao executar a classe principal, você verá uma janela contendo:
+
+![image](https://github.com/user-attachments/assets/46d7b37a-2d45-4cc9-8fc2-bef3c16e960a)
+
 
 ## ✒️ Autores
 
