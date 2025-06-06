@@ -1,5 +1,7 @@
 # Interface Gráfica com AWT e Swing em Java
 
+### 📋 Descrição do Projeto
+
 Este projeto demonstra o uso combinado das bibliotecas AWT (Abstract Window Toolkit) e Swing para a criação de uma interface gráfica simples em Java.
 
 #### Funcionalidades principais:
@@ -10,7 +12,7 @@ Este projeto demonstra o uso combinado das bibliotecas AWT (Abstract Window Tool
 
 O projeto serve como introdução prática à construção de GUIs (Interfaces Gráficas de Usuário) com as bibliotecas nativas do Java.
 
-### 📋 Pré-requisitos
+### 🔧 Pré-requisitos
 
 - Java JDK 8 ou superior
 - IDE Java com suporte à execução gráfica (Eclipse, IntelliJ IDEA, NetBeans, etc.)  
@@ -26,7 +28,7 @@ git clone https://github.com/seu-usuario/MODELO_TELA
 - File → Import → Existing Projects into Workspace
 - Selecione a pasta do projeto clonado
 
-3. Execute a classe Main localizada no pacote Main para ver a demonstração do sistema.
+3. Execute a classe AWTTestSwing.java e siga as instruções no console.
    
 ### 🛠️ Funcionalidades Implementadas
 
