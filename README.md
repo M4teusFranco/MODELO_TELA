@@ -16,6 +16,7 @@ O projeto serve como introdução prática à construção de GUIs (Interfaces G
 
 - Java JDK 8 ou superior
 - IDE Java com suporte à execução gráfica (Eclipse, IntelliJ IDEA, NetBeans, etc.)  
+
 ### 🚀 Instalação e execução
 
 1. Clone o repositório:
